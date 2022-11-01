@@ -27,7 +27,7 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
-### Installation
+### 
 
 1. Clone the repo
    ```sh

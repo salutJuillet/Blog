@@ -8,7 +8,8 @@
 # blog
 
 <div align="center">
-  <img src="images/preview.png" width="400px"/>
+  <img src="images/preview.png" width="400px"/> <br/>
+  <a href="https://youtu.be/JqRwpeS2NJQ" target="_blank">https://youtu.be/JqRwpeS2NJQ</a>
 </div>
 
 <br/><br/>

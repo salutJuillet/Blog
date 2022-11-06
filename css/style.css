@@ -268,12 +268,11 @@ a.btn:hover{
 .blogbox{
     margin-bottom:40px;
 }
-.blogimg{
+.blogimg > img{
     width:100%;
     height:400px;
-    background-position:center;
-    background-repeat:no-repeat;
-    background-size:cover;
+    object-fit: cover;
+    
 }
 .iconbox span{
     font-size:12px;

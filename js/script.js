@@ -1,10 +1,11 @@
 var txt = '';
 var post= '';
 
-for(var i = 1; i > 13 && i < 19; i++){
+for(var i = 14; i > 13 && i < 19; i++){
     // var exe = (i!=3)? 'jpg':'png';       
     txt += '<div class="blogbox">';
-    txt += '<div class="blogimg" style="background-image:url(images/0'+i+'.jpg);></div>';
+    txt += '<div class="blogimg">';
+    txt += '<img src="images/0'+i+'.jpg" alt="'+i+'.jpg">';
     txt += '<h1>곧 끓는 청춘의 만물은 내는 품고 피다. 소리다.이것은 품으며, 것은 위하여서 약동하다.</h1>';
     txt += '<p>곧 끓는 청춘의 만물은 내는 품고 피다. 소리다.이것은 품으며, 것은 위하여서 약동하다.곧 끓는 청춘의 만물은 내는 품고 피다. 소리다.이것은 품으며, 것은 위하여서 약동하다.곧 끓는 청춘의 만물은 내는 품고 피다. 소리다.이것은 품으며, 것은 위하여서 약동하다.</p>';
     txt += '<div class="iconbox">';
@@ -14,6 +15,7 @@ for(var i = 1; i > 13 && i < 19; i++){
     txt += '<span class="heart">17</span>';
     txt += '<span class="material-icons-outlined">chat</span>';
     txt += '<span class="comment">21</span>';
+    txt += '</div>';
     txt += '</div>';
     txt += '</div>';
 }

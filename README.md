@@ -1,11 +1,11 @@
 <!--
-# blog
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salutJuillet&layout=compact)](https://github.com/salutJuillet/blog)
+# Blog
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salutJuillet&layout=compact)](https://github.com/salutJuillet/Blog)
 -->
 
 
 <!-- ABOUT THE PROJECT -->
-# blog
+# Blog
 
 <div align="center">
   <img src="images/preview.png" width="400px"/> <br/>
